@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="63.274689mm"
+   height="27.482288mm"
+   viewBox="0 0 63.27469 27.482288"
+   version="1.1"
+   id="svg7471"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="TBU.svg">
+  <title
+     id="title8069">Thiblizz's BIOS Updater (TBU)</title>
+  <defs
+     id="defs7465" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="200.50137"
+     inkscape:cy="103.28097"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showborder="false"
+     inkscape:measure-start="135.108,70.9632"
+     inkscape:measure-end="157.584,70.9632" />
+  <metadata
+     id="metadata7468">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Thiblizz's BIOS Updater (TBU)</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thiblizz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Thiblizz's BIOS Updater (TBU) official logo.</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-54.701871,-83.306322)">
+    <path
+       id="rect8016-5-5"
+       style="opacity:0.98000004;fill:#000000;fill-opacity:0.98156164;stroke-width:0.0927116"
+       d="m 117.97656,110.78861 h -2.29019 V 83.306322 h 2.29019 z m -60.984498,0 H 54.701871 V 83.306322 h 2.290191 z m 0,-25.192094 v -2.29019 h 58.694308 v 2.29019 z m 0,25.192094 v -2.2902 h 58.694308 v 2.2902 z"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="87.096451"
+       y="105.22626"
+       id="text8061"><tspan
+         sodipodi:role="line"
+         id="tspan8059"
+         x="87.096451"
+         y="105.22626"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">TBU</tspan></text>
+  </g>
+</svg>
